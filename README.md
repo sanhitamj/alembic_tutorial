@@ -47,7 +47,7 @@ INFO  [alembic.runtime.migration] Running upgrade  -> 42929998ff36, create name 
 
               List of relations
 | Schema |      Name       | Type  |  Owner   |
-|--------+-----------------+-------+----------|
+|--------|-----------------|-------|----------|
 | public | alembic_version | table | postgres|
 (1 row)
 
