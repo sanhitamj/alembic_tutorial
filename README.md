@@ -1,9 +1,9 @@
-# alembic_tutorial
+# Alembic Tutorial
 Talk at Galvanize, 2020/01/16
 
 https://docs.google.com/presentation/d/13X8ji8LfLHLB1_b3-ZLT_V4eUmJOPzNIuPSTFxHkZbU/edit?usp=sharing
 
-* (edit the environment.yml file)
+* Get this repo and get rid of the file `alembic.ini` and the folder `tutorial`
 * conda env update
 
 
