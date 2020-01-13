@@ -1,0 +1,12 @@
+name: alembic_tut
+
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - alembic=1.3.2
+  - jupyterlab
+  - pandas=0.25.1
+  - psycopg2=2.8.4
+  - sqlalchemy=1.3.12
